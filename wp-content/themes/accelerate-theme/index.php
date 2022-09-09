@@ -14,6 +14,7 @@
  * @since Accelerate Marketing 2.0
  */
 
+
 get_header(); ?>
 	<!-- BLOG PAGE -->
 	<section class="index-page">
